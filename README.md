@@ -1,3 +1,1 @@
-# git_workshop
-#changement important
-## c'est vraiment important
+Dans ce projet,nous avons essayé les commandes les plus utiles pour commencer à collaborer avec github
